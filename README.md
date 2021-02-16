@@ -1,5 +1,5 @@
 # GoodReadsReviewScraper
-Extracts review data from GoodReads and turns it into a csv.
+Extracts review data from GoodReads using selenium webdriver and BeautifulSoup and turns it into a csv.
 
 Takes one argument in the command line:
 
